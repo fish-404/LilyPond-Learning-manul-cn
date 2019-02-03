@@ -8,7 +8,7 @@ description: 乐谱排版
 
 本手册对于 LilyPond 的介绍基于版本 2.18.2
 
-{% embed url="http://lilypond.org/" %}
+{% embed url="http://lilypond.org/" caption="" %}
 
 注：翻译此手册仅出于个人学习使用 LilyPond 软件的目的，希望以此软件将自己学习过的或者正在学习的乐谱整理出来，故在阅读此手册的时候翻译出来供自己查阅相关语法。
 
