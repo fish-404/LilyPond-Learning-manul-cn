@@ -14,3 +14,5 @@ LilyPond 会自动添加一些乐谱元素。在下面的例子中，我们仅�
 
 {% page-ref page="pitches.md" %}
 
+{% page-ref page="duration.md" %}
+
