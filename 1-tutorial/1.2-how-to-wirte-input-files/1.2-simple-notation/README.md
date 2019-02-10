@@ -16,3 +16,7 @@ LilyPond 会自动添加一些乐谱元素。在下面的例子中，我们仅�
 
 {% page-ref page="duration.md" %}
 
+{% page-ref page="rests.md" %}
+
+{% page-ref page="time-signature.md" %}
+
