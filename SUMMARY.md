@@ -8,6 +8,8 @@
     * [1.2.1 简单的乐谱](1-tutorial/1.2-how-to-wirte-input-files/1.2-simple-notation/README.md)
       * [音高](1-tutorial/1.2-how-to-wirte-input-files/1.2-simple-notation/pitches.md)
       * [时值（节奏）](1-tutorial/1.2-how-to-wirte-input-files/1.2-simple-notation/duration.md)
+      * [休止符](1-tutorial/1.2-how-to-wirte-input-files/1.2-simple-notation/rests.md)
+      * [拍号](1-tutorial/1.2-how-to-wirte-input-files/1.2-simple-notation/time-signature.md)
   * [1.3 处理出错](1-tutorial/1.3-dealing-with-errors.md)
   * [1.4 如何阅读手册](1-tutorial/1.4-how-to-read-the-manuls.md)
 

@@ -1,5 +1,14 @@
 # 音高
 
+音乐术语参考：
+
+1. [pich](http://lilypond.org/doc/v2.18/Documentation/music-glossary/pitch)
+2. [interval](http://lilypond.org/doc/v2.18/Documentation/music-glossary/interval)
+3. [scale](http://lilypond.org/doc/v2.18/Documentation/music-glossary/scale)
+4. [middle C](http://lilypond.org/doc/v2.18/Documentation/music-glossary/middle-c)
+5. [octave](http://lilypond.org/doc/v2.18/Documentation/music-glossary/octave)
+6. [accidental](http://lilypond.org/doc/v2.18/Documentation/music-glossary/accidental)
+
 输入音符的最简单的方法是使用`\relative` 模式。在这个模式下，八度音程将会自动被选取，LilyPond 假定下一个音总是会被放在离前一个音最近的位置。也就是下一个音将被置于前一个音的三度音程以内。我们将从键入一条最基本的乐句 _音阶_  开始，其中每个音符只比前一个音符高一度。
 
 ```text
@@ -55,7 +64,7 @@
 
 ![](../../../.gitbook/assets/1.2.1-4%20%281%29.png)
 
-无论音符是高音还是低音，情况都完全相同。在进行相关位置计算时， _意外值_ **完全被忽略**。准确地讲，对于一个音符，在五线谱上的任何一个位置进行音程计算都是一样的。
+无论音符是高音还是低音，情况都完全相同。在进行相关位置计算时， _升降记号_ **完全被忽略**。准确地讲，对于一个音符，在五线谱上的任何一个位置进行音程计算都是一样的。
 
 为了添加间隔大于三个音程的音，我们可以通过在音名旁添加一个单引号`'` （或者称作撇号）来升高一个八度，通过在音名旁添加一个逗号`,` 来降低一个八度。
 
