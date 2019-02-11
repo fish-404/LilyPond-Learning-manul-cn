@@ -20,3 +20,9 @@ LilyPond 会自动添加一些乐谱元素。在下面的例子中，我们仅�
 
 {% page-ref page="time-signature.md" %}
 
+{% page-ref page="tempomark.md" %}
+
+{% page-ref page="pu-hao.md" %}
+
+{% page-ref page="all-together.md" %}
+

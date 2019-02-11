@@ -4,7 +4,7 @@
 
 1. [time signature](http://lilypond.org/doc/v2.18/Documentation/music-glossary/time-signature)
 
-_拍号_ 可以使用`\time` 语句生成：
+_拍号_ 可以使用`\time` 命令生成：
 
 ```text
 \relative c'' {
