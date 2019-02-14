@@ -13,6 +13,7 @@
       * [速度标记](1-tutorial/1.2-how-to-wirte-input-files/1.2-simple-notation/tempomark.md)
       * [谱号](1-tutorial/1.2-how-to-wirte-input-files/1.2-simple-notation/pu-hao.md)
       * [整合](1-tutorial/1.2-how-to-wirte-input-files/1.2-simple-notation/all-together.md)
+    * [1.2.2 处理输入文件](1-tutorial/1.2-how-to-wirte-input-files/1.2.2-working-on-input-files.md)
   * [1.3 处理出错](1-tutorial/1.3-dealing-with-errors.md)
   * [1.4 如何阅读手册](1-tutorial/1.4-how-to-read-the-manuls.md)
 
