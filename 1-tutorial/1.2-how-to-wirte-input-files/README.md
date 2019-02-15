@@ -4,3 +4,5 @@
 
 {% page-ref page="1.2-simple-notation/" %}
 
+{% page-ref page="1.2.2-working-on-input-files.md" %}
+
