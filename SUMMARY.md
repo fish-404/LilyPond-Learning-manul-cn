@@ -16,4 +16,7 @@
     * [1.2.2 处理输入文件](1-tutorial/1.2-how-to-wirte-input-files/1.2.2-working-on-input-files.md)
   * [1.3 处理出错](1-tutorial/1.3-dealing-with-errors.md)
   * [1.4 如何阅读手册](1-tutorial/1.4-how-to-read-the-manuls.md)
+* [附录A 模板](appendix-a-templates/README.md)
+  * [A.2 钢琴谱模板](appendix-a-templates/a.2-piano-templates/README.md)
+    * [A.2.1 钢琴独奏](appendix-a-templates/a.2-piano-templates/a.2.1-solo-piano.md)
 
