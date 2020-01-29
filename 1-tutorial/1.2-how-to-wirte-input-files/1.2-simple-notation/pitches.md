@@ -2,7 +2,7 @@
 
 音乐术语参考：
 
-1. [pich](http://lilypond.org/doc/v2.18/Documentation/music-glossary/pitch)
+1. [pitch](http://lilypond.org/doc/v2.18/Documentation/music-glossary/pitch)
 2. [interval](http://lilypond.org/doc/v2.18/Documentation/music-glossary/interval)
 3. [scale](http://lilypond.org/doc/v2.18/Documentation/music-glossary/scale)
 4. [middle C](http://lilypond.org/doc/v2.18/Documentation/music-glossary/middle-c)
