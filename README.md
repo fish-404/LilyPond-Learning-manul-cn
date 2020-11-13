@@ -6,7 +6,9 @@ description: 乐谱排版
 
 **LilyPond 开发团队**
 
-本手册对于 LilyPond 的介绍基于版本 2.18.2
+本手册对于 LilyPond 的介绍基于版本 2.18.2\(部分）
+
+2020.3 LilyPond 发布了2.20版本，11月发布了开发版2.21
 
 {% embed url="http://lilypond.org/" caption="" %}
 
